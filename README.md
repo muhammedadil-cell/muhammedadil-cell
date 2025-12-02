@@ -43,5 +43,5 @@ I am a Computer Science Engineering student at the College of Engineering Atting
 ---
 
 ### 📊 GitHub Stats
-![Aflah's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedadil-cell&show_icons=true&theme=radical)
+![Muhammed Adil S GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedadil-cell&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedadil-cell&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
