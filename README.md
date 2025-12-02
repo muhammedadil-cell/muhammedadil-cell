@@ -1,4 +1,4 @@
-# Hi there, I'm Aflah! 👋
+# Hi there, I'm Muhammed Adil S! 👋
 
 ### 👨‍💻 About Me
 I am a Computer Science Engineering student at the College of Engineering Attingal. I am passionate about building intelligent software solutions, with a specific focus on **Natural Language Processing (NLP)** and **Artificial Intelligence**.
